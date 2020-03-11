@@ -7,6 +7,14 @@ https://5c21f7ec1999d.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="",Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
+#RTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://cdn.rts.com.ec/2018/v3/images/icono_app.png" group-title="",RTS
+https://d2a6tcnofawcbm.cloudfront.net/player_rts.html?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTgzOTkyNTg4LCJzZXNzaW9uIjoiMTgxLjE5OC4xNzkuMTYzIiwid2hpdGVsaXN0IjpbIjE4MS4xOTguMTc5LjE2MyJdfSwic2lnbmF0dXJlIjoiM2RkNGUwNjViNzAwYjMwZGUxZmMxMTI1OTEyZWZkNmI4ZWJlMDMwMiJ9
+
+#TVC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://cdn.tvc.com.ec/sites/common/img/logo_televicentro.png" group-title="",TVC
+http://d2ipusxctfkuu3.cloudfront.net/player_televicentro.html?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTgzOTkyMjUxLCJzZXNzaW9uIjoiMTgxLjE5OC4xNzkuMTYzIiwid2hpdGVsaXN0IjpbIjE4MS4xOTguMTc5LjE2MyJdfSwic2lnbmF0dXJlIjoiYjliYzczZmYzMWI4YjBlZTQxYWFmMjUwZmE2MmVhZTQyYTI1ZTA2OSJ9
+
 #Ecuador TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="",Ecuador TV Canal 7
 http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
@@ -22,4 +30,3 @@ http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
 #OROMAR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="",Oromar TV
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-

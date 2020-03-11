@@ -46,3 +46,7 @@ http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #RCN HD - COLOMBIA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/100px-Canal_RCN_logo.svg.png" group-title="",RCN HD
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?fluxustv.m3u8
+
+#Telemedellin - COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/639px-Telemedellin.svg.png" group-title="",Tele Medellin
+http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8

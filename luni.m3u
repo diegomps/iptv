@@ -28,7 +28,7 @@ http://inliveserver.com:1935/8074/8074/playlist.m3u8
 https://59c3c7bda15f4.streamlock.net:444/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
 
 #RT Español
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="",Ecuador TV Canal 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="",RT Español
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
 #RTU

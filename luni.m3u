@@ -9,11 +9,11 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
 #RTS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://cdn.rts.com.ec/2018/v3/images/icono_app.png" group-title="",RTS
-https://d2a6tcnofawcbm.cloudfront.net/player_rts.html?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTgzOTkyNTg4LCJzZXNzaW9uIjoiMTgxLjE5OC4xNzkuMTYzIiwid2hpdGVsaXN0IjpbIjE4MS4xOTguMTc5LjE2MyJdfSwic2lnbmF0dXJlIjoiM2RkNGUwNjViNzAwYjMwZGUxZmMxMTI1OTEyZWZkNmI4ZWJlMDMwMiJ9
+
 
 #TVC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://cdn.tvc.com.ec/sites/common/img/logo_televicentro.png" group-title="",TVC
-http://d2ipusxctfkuu3.cloudfront.net/player_televicentro.html?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTgzOTkyMjUxLCJzZXNzaW9uIjoiMTgxLjE5OC4xNzkuMTYzIiwid2hpdGVsaXN0IjpbIjE4MS4xOTguMTc5LjE2MyJdfSwic2lnbmF0dXJlIjoiYjliYzczZmYzMWI4YjBlZTQxYWFmMjUwZmE2MmVhZTQyYTI1ZTA2OSJ9
+
 
 #Ecuador TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="",Ecuador TV Canal 7
@@ -22,6 +22,10 @@ http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #CANELA TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="",Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
+
+#RTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/8a6a53_10d5fcee449a45849b46cb5d8014d1ce~mv2_d_8893_4878_s_4_2.png/v1/fill/w_129,h_68,al_c,usm_0.33_1.00_0.00/RTU%20LOGO%20.png" group-title="",RTU
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 
 #UCSG
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="",UCSG

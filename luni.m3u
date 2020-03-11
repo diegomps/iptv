@@ -23,8 +23,16 @@ http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="",Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
 
+#Zaracay TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://zaracaytv.com/wp-content/uploads/2015/08/logo-h.png" group-title="",Zaracay TV
+https://59c3c7bda15f4.streamlock.net:444/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
+
+#RT Español
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="",Ecuador TV Canal 7
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+
 #RTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/8a6a53_10d5fcee449a45849b46cb5d8014d1ce~mv2_d_8893_4878_s_4_2.png/v1/fill/w_129,h_68,al_c,usm_0.33_1.00_0.00/RTU%20LOGO%20.png" group-title="",RTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="",RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8
 
 #UCSG
@@ -34,3 +42,7 @@ http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
 #OROMAR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="",Oromar TV
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#RCN HD - COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/100px-Canal_RCN_logo.svg.png" group-title="",RCN HD
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?fluxustv.m3u8

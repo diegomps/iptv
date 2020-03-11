@@ -1,3 +1,8 @@
 #EXTM3U
+#TC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rRub8OR.png" group-title="",TC Mi Canal
 https://5c21f7ec1999d.streamlock.net/8054/8054/playlist.m3u8
+
+#CANELA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="",Canela TV
+http://inliveserver.com:1935/8074/8074/playlist.m3u8
